@@ -1,0 +1,18 @@
+Quatro formatos de strings:
+- double quoted
+    Aspas duplas.
+    concatenation operator (.)
+    existe a interpretação do conteúdo
+    - Escape sequences: \n \t \\ \$ \u{}
+
+- single quoted
+    não tem interpretação do conteúdo (mostra da maneira que foi escrito)
+    - Escape sequences: 
+
+    Para utilizar aspas em um texto utiliza \"PALAVRAAQUI\"
+
+- Heredoc
+    <<< FRASE (pode conter varias linhas e interpreta o conteúdo) FRASE;
+
+- Nowdoc
+    <<< 'FRASE' (pode conter varias linhas e não interpreta o conteúdo) FRASE;

@@ -1,0 +1,11 @@
+Operações Aritiméticas:
+- abs() = retira o sinal de um valor
+- base_convert() = cpnverter bases decimais, hexadecimais, binário, etc
+- ceil(), floor(), round() = arredondademento -> ceil(pra cima), floor(pra baixo), round(arredondamento padrão)
+- hypot() = calcular hipotenusa
+- intdiv() = divisão inteira
+- min(), max() = valor minimo e valor máximo de uma sequência
+- pi() = retorna o valor de pi
+- pow() = potência
+- sin(), cos(), tang() = seno, cosceno e tangente
+- sqrt() = raiz quadrada

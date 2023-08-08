@@ -1,0 +1,9 @@
+1 - Solicitar um número e informar qual número digitado, o antecessor e o sucessor;
+
+2 - Faça um gerador de números aleatórios entre 0 e 100;
+
+3 - Crie um conversor de moedas que solicite o valor em carteira e converta em dólares, informando também a cotação;
+
+4 - Crie um conversos de moedas que solicite o valor em carteira e converta em dólares utilizando uma API do Banco Central, informando também a cotação;
+
+5 - Solicite um número e analise a parte inteira e a parte fracionada do valor informado.

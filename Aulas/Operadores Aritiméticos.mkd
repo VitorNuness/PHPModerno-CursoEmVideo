@@ -1,0 +1,6 @@
++ = Adição
+- = Subtração
+* = Multiplicação
+/ = Divisão real
+% = Módulo da divisão ou resto
+** = Exponenciação ou portência
